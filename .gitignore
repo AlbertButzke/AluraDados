@@ -1,2 +1,15 @@
+# Seguranca
 senhas.txt
+.env
+
+# Ambientes Virtuais
 .venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
