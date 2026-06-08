@@ -13,3 +13,6 @@ __pycache__/
 
 # Logs
 *.log
+
+#arquivos grandes
+credito/creditcard.csv
